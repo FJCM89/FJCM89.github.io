@@ -10,7 +10,7 @@ En el pirineo Aragones se podran realziar todo tipo de deportes de verano e invi
 
 Se trata de la antigua estación de tren de canfranc, es una estación con mucha historia y bastante bien conservada, no dudeis en visitarla(mas abajo os dejo el link de la pagina web para consultas).
 
-![Estación de Canfranc](https://github.com/FJCM89/FJCM89.github.io/blob/master/images/first-post.png "Estación de Canfranc")
+![Estación de Canfranc]({{site.baseurl}}/images/EstacionCanfranc.jpg)
 
 [Página información Estación de Canfranc](https://www.canfranc.es/turismo_canfranc_pirineos.php?idRec=5)
 
@@ -18,6 +18,6 @@ Se trata de la antigua estación de tren de canfranc, es una estación con mucha
 
 Esta estación es muy curiosa de ver ya que su pista principal esta rodeada por bares, hoteles, y tiendas de alquiler de esquís, se puede pasar un gran día sin tenerr que desplazarse del lugar.
 
-![Candanchú](https://github.com/FJCM89/FJCM89.github.io/blob/master/images/Candanchu.jpg "Candanchú")
+![Candanchú]({{site.baseurl}}/images/Candanchu.jpg)
 
 [Página Estación de Candanchú](https://www.candanchu.com/)
