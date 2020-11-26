@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: CANTABRIA
 ---
 
 Por todos es bien conocido que en Cantabria se come bien y se puede disfrutar de visitas a bonitos pueblos y ciudades, pero si te gusta la naturaleza te hablaré de dos lugares que me fascinaron.
@@ -11,7 +11,7 @@ Se trata de una cueva con formaciones geológicas increibles, se puede realizar 
 
 ![alt text](https://github.com/FJCM89/FJCM89.github.io/blob/master/images/CuevaElSoplao.jpg "Cueva el Soplao")
 
-[Pagina web Cueva el Soplao](https://www.elsoplao.es/es)
+[Página web Cueva el Soplao](https://www.elsoplao.es/es)
 
 #PARQUE NATURAL DE CABARCENO
 
@@ -19,4 +19,4 @@ Este lugar es perfecto para ser visitado tanto por adultos como por niños, es u
 
 ![alt text](https://github.com/FJCM89/FJCM89.github.io/blob/master/images/cabarceno.jpg "Parque natural Cabarceno")
 
-[Pagina web Parque Cabarceno](https://parquedecabarceno.com/inicio)
+[Página web Parque Cabarceno](https://parquedecabarceno.com/inicio)
