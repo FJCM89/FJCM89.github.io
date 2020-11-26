@@ -4,11 +4,12 @@ title: PIRINEO ARAGONES
 ---
 
 
-En el pirineo Aragones se podran realziar todo tipo de deportes de verano e invierno, comer fenomenal y disfrutar de monumentos y pueblos preciosos, a continuación os dejo dos lugares que no debéis de dejar de vistar.
+En el pirineo Aragones se podran realizar todo tipo de deportes de verano e invierno, comer fenomenal y disfrutar de monumentos y pueblos preciosos.
+A continuación os dejo dos lugares que no debéis de dejar de visitar.
 
 #ESTACIÓN DE CANFRANC
 
-Se trata de la antigua estación de tren de canfranc, es una estación con mucha historia y bastante bien conservada, no dudeis en visitarla(mas abajo os dejo el link de la pagina web para consultas).
+Se trata de la antigua estación de tren de Canfranc, es una estación con mucha historia y bastante bien conservada, no dudeis en visitarla (mas abajo os dejo el link de la pagina web para consultas).
 
 ![Estación de Canfranc]({{site.baseurl}}/images/EstacionCanfranc.jpg)
 
@@ -16,7 +17,7 @@ Se trata de la antigua estación de tren de canfranc, es una estación con mucha
 
 #ESTACIÓN DE ESQUÍ DE CANDANCHÚ
 
-Esta estación es muy curiosa de ver ya que su pista principal esta rodeada por bares, hoteles, y tiendas de alquiler de esquís, se puede pasar un gran día sin tenerr que desplazarse del lugar.
+Esta estación es muy curiosa de ver, ya que su pista principal esta rodeada por bares, hoteles, y tiendas de alquiler de esquís, se puede pasar un gran día sin tener que desplazarse del lugar.
 
 ![Candanchú]({{site.baseurl}}/images/Candanchu.jpg)
 
